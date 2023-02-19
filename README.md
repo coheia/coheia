@@ -10,6 +10,10 @@ Currently I'm working with Web Components, focused on architecture and implement
 
 I'm looking to collaborate with projects focused on web components and building/architecting design systems. If you are hiring let's talk a little bit about that.
 
+Take a look at this project:
+[simple-webcomponents](https://github.com/coheia/simple-webcomponents)
+Develop, document and distribute web components in an automated way.
+
 Contact via felipecorreia.contato@gmail.com
 
 <!--
