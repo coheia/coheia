@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I was born and raised in the metropolitan region of Salvador, Brazil, I awoke an interest in computers and the internet at 14 and started developing for the web at 15.
+I'm 27 y.o with +10y of experience, I awoke an interest in computers and the internet at 14 and started developing for the web at 15.
 
 I worked on many projects developing interfaces, years as a WordPress Developer, creating custom themes and plugins. I have +10 years of experience developing for web. For the last 6 years I've been dedicating myself exclusively to the front-end and the entire node.js universe to automate routines that were once exhausting.
 
@@ -10,23 +10,13 @@ Currently I'm working with Web Components, focused on architecture and implement
 
 I'm looking to collaborate with projects focused on web components and building/architecting design systems. If you are hiring let's talk a little bit about that.
 
-Take a look at this project:
-[simple-webcomponents](https://github.com/coheia/simple-webcomponents)
-Develop, document and distribute web components in an automated way.
+#### **Projects**
 
-Contact via felipecorreia.contato@gmail.com
+[**simple-webcomponents**](https://github.com/coheia/simple-webcomponents)  
+_Develop, document and distribute web components in an automated way._
 
-<!--
-**coheia/coheia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[**simple-http-service**](https://www.npmjs.com/package/@coheia/simple-http-service)  
+_The SimpleHttpService class makes it easier to use http methods._  
+ 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact via [felipecorreia.contato@gmail.com](mailto:felipecorreia.contato@gmail.com)
