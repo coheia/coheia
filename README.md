@@ -1,5 +1,1 @@
-### Hi there 👋
-
-I'm 27 y.o. with +10y of experience, I awoke an interest in computers and the internet at 14 and started developing for the web at 15.
-
-I worked on many projects developing interfaces, years as a WordPress Developer, creating custom themes and plugins. For the last 6 years I've been dedicating myself exclusively to the front-end and the entire node.js universe. I love to experiment new technologies and tools. Always learning 🌱
+Experienced Frontend Developer specializing in building high-performance and user-friendly web applications. Skilled in semantic HTML5, CSS3, JavaScript (ES6+), React.js, TypeScript, Vue.js, Handlebars, SASS, Redux, and micro-frontend architecture. Passionate about delivering innovative solutions and optimizing user experiences. Constantly exploring new technologies and staying up-to-date with trends.
